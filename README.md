@@ -1,8 +1,8 @@
 ### About me
 
-Catalyst | Innovator | Pioneer.
+Catalyst | Innovator | Pioneer
 
-I am a creative and curious multipotentialite with extensive experience in leadership and business development and strong soft skills. Always learning and changing and currently taking the time to educate myself in software engineering @CODAM.
+I am a creative and curious multipotentialite with extensive experience in leadership and business development and strong soft skills. Always learning and changing and currently taking the time to educate myself in software engineering @CODAM. 
 
 ## I’m currently learning C, C++, Python
 
