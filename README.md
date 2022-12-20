@@ -6,7 +6,6 @@ I am a creative and curious multipotentialite with extensive experience in leade
 
 ## I’m currently learning C, C++, Python
 
-reach me: 
 
 ### GitHub Stats
 
@@ -16,5 +15,5 @@ reach me:
 
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-carlowesseling-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlowesseling)
+[![Linkedin](https://img.shields.io/badge/-carlowesseling-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlo-wesseling-19b7a0b/)
 [![Gmail](https://img.shields.io/badge/-cr.wesseling0-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cr.wesseling@gmail.com)
