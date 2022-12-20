@@ -16,4 +16,4 @@ I am a creative and curious multipotentialite with extensive experience in leade
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-carlowesseling-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlo-wesseling-19b7a0b/)
-[![Gmail](https://img.shields.io/badge/-cr.wesseling0-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cr.wesseling@gmail.com)
+[![Gmail](https://img.shields.io/badge/-cr.wesseling-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cr.wesseling@gmail.com)
