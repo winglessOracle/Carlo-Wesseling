@@ -13,4 +13,4 @@ I am a creative and curious multipotentialite with extensive experience in leade
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winglessOracle&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Currently learning
-C, C++, Python
+C, C++, Python, GODOT
